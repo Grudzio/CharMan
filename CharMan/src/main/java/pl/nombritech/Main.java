@@ -13,7 +13,7 @@ public class Main extends Application
         Scene scene = new Scene(stackPane);
         primaryStage.setScene(scene);
         primaryStage.setTitle("CharMan");
-
+//moze zrobmy inny tytuł^^^^^^^^^^^^^^^^^^^^
         primaryStage.show();
     }
 
